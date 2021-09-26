@@ -1,0 +1,224 @@
+[
+   {
+      "key": "615000e8509f61949931906f",
+      "name": "Dennis MacAlistair Ritchie",
+      "gender": "male",
+      "language": "C programming language",
+      "salary": 303725,
+      "email": "tammiforeman@zillan.com",
+      "age": 50,
+      "phone": "+1 (985) 456-3169",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/220px-Dennis_Ritchie_2011.jpg"
+   },
+   {
+      "key": "615000e85a03f846b14b7055",
+      "name": "Bjarne Stroustrup",
+      "gender": "male",
+      "language": "C++ language",
+      "salary": 3293843,
+      "email": "denisealford@asimiline.com",
+      "age": 58,
+      "phone": "+1 (900) 600-2729",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Bjarne-Stroustrup.jpg?ezimgfmt=rs:300x168/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e87f531a8ccec7c40d",
+      "name": "James Arthur Gosling",
+      "gender": "male",
+      "language": "Java programming language",
+      "salary": 4420305,
+      "email": "verawest@calcula.com",
+      "age": 55,
+      "phone": "+1 (903) 403-2664",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/James-Arthur-Gosling.jpg?ezimgfmt=rs:259x194/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e87e0f5d8d25f75838",
+      "name": "Linus Benedict Torvalds",
+      "gender": "male",
+      "language": "Linux kernel ",
+      "salary": 3704632,
+      "email": "grantsears@gleamink.com",
+      "age": 53,
+      "phone": "+1 (906) 513-3483",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Linus-Benedict-Torvalds-300x154.jpg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8ede77246a44a6d7e",
+      "name": "Andres Hejlsberg",
+      "gender": "male",
+      "language": "C# programming language",
+      "salary": 2208046,
+      "email": "dianecastillo@inquala.com",
+      "age": 69,
+      "phone": "+1 (928) 560-3642",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Anders-Hejlsberg.jpg?ezimgfmt=rs:275x183/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e872b139cc2ae294c0",
+      "name": "Tim Berners Lee",
+      "gender": "male",
+      "language": "World Wide Web",
+      "salary": 1469398,
+      "email": "vanceduran@kage.com",
+      "age": 66,
+      "phone": "+1 (939) 475-3081",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Tim-Berners-Lee-300x200.jpeg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8db13607f7a7d593d",
+      "name": "Ken Thompson",
+      "gender": "male",
+      "language": "UNIX operating system",
+      "salary": 963513,
+      "email": "boyerberry@combogen.com",
+      "age": 49,
+      "phone": "+1 (923) 570-3011",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Ken-Thompson.jpg?ezimgfmt=rs:285x177/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8d2f24a67bceed17a",
+      "name": "Brian Kernighan",
+      "gender": "male",
+      "language": "Unix",
+      "salary": 2858622,
+      "email": "elnoranguyen@tropoli.com",
+      "age": 65,
+      "phone": "+1 (804) 420-3901",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Brian-Kernighan.jpg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8240cd2846610ba6c",
+      "name": "Guido Von Rossum",
+      "gender": "male",
+      "language": "Python programming language",
+      "salary": 1899653,
+      "email": "jamesabbott@zorromop.com",
+      "age": 36,
+      "phone": "+1 (840) 468-3319",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Guido-van-Rossum-300x200.jpg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8d3543dea20a22d53",
+      "name": "Donald Knuth",
+      "gender": "male",
+      "language": "algorithms",
+      "salary": 1554235,
+      "email": "juliettecash@permadyne.com",
+      "age": 57,
+      "phone": "+1 (807) 469-3953",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Donald-Knuth.jpg?ezimgfmt=rs:206x244/rscb2/ng:webp/ngcb2"
+   },
+   
+   {
+      "key": "615000e8509f61949931906f",
+      "name": "Dennis MacAlistair Ritchie",
+      "gender": "male",
+      "language": "C programming language",
+      "salary": 303725,
+      "email": "tammiforeman@zillan.com",
+      "age": 50,
+      "phone": "+1 (985) 456-3169",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/220px-Dennis_Ritchie_2011.jpg"
+   },
+   {
+      "key": "615000e85a03f846b14b7055",
+      "name": "Bjarne Stroustrup",
+      "gender": "male",
+      "language": "C++ language",
+      "salary": 3293843,
+      "email": "denisealford@asimiline.com",
+      "age": 58,
+      "phone": "+1 (900) 600-2729",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Bjarne-Stroustrup.jpg?ezimgfmt=rs:300x168/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e87f531a8ccec7c40d",
+      "name": "James Arthur Gosling",
+      "gender": "male",
+      "language": "Java programming language",
+      "salary": 4420305,
+      "email": "verawest@calcula.com",
+      "age": 55,
+      "phone": "+1 (903) 403-2664",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/James-Arthur-Gosling.jpg?ezimgfmt=rs:259x194/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e87e0f5d8d25f75838",
+      "name": "Linus Benedict Torvalds",
+      "gender": "male",
+      "language": "Linux kernel ",
+      "salary": 3704632,
+      "email": "grantsears@gleamink.com",
+      "age": 53,
+      "phone": "+1 (906) 513-3483",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Linus-Benedict-Torvalds-300x154.jpg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8ede77246a44a6d7e",
+      "name": "Andres Hejlsberg",
+      "gender": "male",
+      "language": "C# programming language",
+      "salary": 2208046,
+      "email": "dianecastillo@inquala.com",
+      "age": 69,
+      "phone": "+1 (928) 560-3642",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Anders-Hejlsberg.jpg?ezimgfmt=rs:275x183/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e872b139cc2ae294c0",
+      "name": "Tim Berners Lee",
+      "gender": "male",
+      "language": "World Wide Web",
+      "salary": 1469398,
+      "email": "vanceduran@kage.com",
+      "age": 66,
+      "phone": "+1 (939) 475-3081",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Tim-Berners-Lee-300x200.jpeg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8db13607f7a7d593d",
+      "name": "Ken Thompson",
+      "gender": "male",
+      "language": "UNIX operating system",
+      "salary": 963513,
+      "email": "boyerberry@combogen.com",
+      "age": 49,
+      "phone": "+1 (923) 570-3011",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Ken-Thompson.jpg?ezimgfmt=rs:285x177/rscb2/ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8d2f24a67bceed17a",
+      "name": "Brian Kernighan",
+      "gender": "male",
+      "language": "Unix",
+      "salary": 2858622,
+      "email": "elnoranguyen@tropoli.com",
+      "age": 65,
+      "phone": "+1 (804) 420-3901",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Brian-Kernighan.jpg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8240cd2846610ba6c",
+      "name": "Guido Von Rossum",
+      "gender": "male",
+      "language": "Python programming language",
+      "salary": 1899653,
+      "email": "jamesabbott@zorromop.com",
+      "age": 36,
+      "phone": "+1 (840) 468-3319",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Guido-van-Rossum-300x200.jpg?ezimgfmt=ng:webp/ngcb2"
+   },
+   {
+      "key": "615000e8d3543dea20a22d53",
+      "name": "Donald Knuth",
+      "gender": "male",
+      "language": "algorithms",
+      "salary": 1554235,
+      "email": "juliettecash@permadyne.com",
+      "age": 57,
+      "phone": "+1 (807) 469-3953",
+      "image": "https://w3codemasters.in/wp-content/uploads/2020/06/Donald-Knuth.jpg?ezimgfmt=rs:206x244/rscb2/ng:webp/ngcb2"
+   }
+   
+]
