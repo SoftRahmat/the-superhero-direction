@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Live Site Link [Click here to see live preview](https://pro-programmers-event.netlify.app)
 
-Project Deatals 
-@Information about programming language inventor
-@How to show data from json file in react app
-@How manage state in react app
+Project Deatails 
+### `Information about programming language inventor`
+### `How to show data from JSON file in react app`
+### `How to manage state in react app`
 
 In the project directory, you can run:
 
